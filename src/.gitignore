@@ -1,0 +1,15 @@
+# PyCharm settings
+.idea/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data downloads (if you decide to save PhysioNet data locally later)
+*.dat
+*.hea
